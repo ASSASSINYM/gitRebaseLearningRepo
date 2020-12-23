@@ -25,7 +25,6 @@
     b = 11;
     c = a + b;
     
-    NSLog(@"fuck it");
 }
 
 
