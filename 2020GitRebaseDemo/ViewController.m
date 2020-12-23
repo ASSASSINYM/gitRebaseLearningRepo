@@ -26,6 +26,8 @@
     c = a + b;
     
     NSLog(@"fuck it");
+    
+    NSLog(@"create a conflict");
 }
 
 
