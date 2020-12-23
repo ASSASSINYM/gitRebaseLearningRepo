@@ -20,6 +20,10 @@
     NSLog(@"this is Dev branch haha !");
     
     NSLog(@"it's time to resolve conficts");
+    int a,b,c;
+    a = 10;
+    b = 11;
+    c = a + b;
 }
 
 
