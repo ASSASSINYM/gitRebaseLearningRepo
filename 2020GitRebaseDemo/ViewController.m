@@ -18,6 +18,8 @@
     // Do any additional setup after loading the view.
     
     NSLog(@"this is Dev branch haha !");
+    
+    NSLog(@"it's time to resolve conficts");
 }
 
 
