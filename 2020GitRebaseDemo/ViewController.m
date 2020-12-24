@@ -9,6 +9,9 @@
 
 @interface ViewController ()
 
+@property(nonatomic,copy)NSString *name;
+@property(nonatomic,copy)NSString *sex;
+
 @end
 
 @implementation ViewController
