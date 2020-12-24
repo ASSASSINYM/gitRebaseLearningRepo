@@ -12,6 +12,9 @@
 @property(nonatomic,copy)NSString *name;
 @property(nonatomic,copy)NSString *sex;
 
+@property(nonatomic,assign)int age;
+@property(nonatomic,assign)int height;
+
 @end
 
 @implementation ViewController
