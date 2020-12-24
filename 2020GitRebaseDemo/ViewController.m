@@ -19,6 +19,18 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+    NSLog(@"this is Dev branch haha !");
+    
+    NSLog(@"it's time to resolve conficts");
+    int a,b,c;
+    a = 10;
+    b = 11;
+    c = a + b;
+    
+
+    
+    NSLog(@"create a conflict");
 }
 
 
