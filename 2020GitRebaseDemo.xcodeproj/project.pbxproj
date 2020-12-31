@@ -17,6 +17,7 @@
 		652CAFAC25885C7D007A4C3D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 652CAFAB25885C7D007A4C3D /* main.m */; };
 		652CAFB625885C7D007A4C3D /* _020GitRebaseDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 652CAFB525885C7D007A4C3D /* _020GitRebaseDemoTests.m */; };
 		652CAFC125885C7D007A4C3D /* _020GitRebaseDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 652CAFC025885C7D007A4C3D /* _020GitRebaseDemoUITests.m */; };
+		653180F3259DCE6800860975 /* RebaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 653180F2259DCE6800860975 /* RebaseViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,8 @@
 		652CAFBC25885C7D007A4C3D /* 2020GitRebaseDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 2020GitRebaseDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		652CAFC025885C7D007A4C3D /* _020GitRebaseDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _020GitRebaseDemoUITests.m; sourceTree = "<group>"; };
 		652CAFC225885C7D007A4C3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		653180F1259DCE6800860975 /* RebaseViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RebaseViewController.h; sourceTree = "<group>"; };
+		653180F2259DCE6800860975 /* RebaseViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RebaseViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +121,8 @@
 				652CAFAA25885C7D007A4C3D /* Info.plist */,
 				652CAFAB25885C7D007A4C3D /* main.m */,
 				652CAFA225885C79007A4C3D /* _020GitRebaseDemo.xcdatamodeld */,
+				653180F1259DCE6800860975 /* RebaseViewController.h */,
+				653180F2259DCE6800860975 /* RebaseViewController.m */,
 			);
 			path = 2020GitRebaseDemo;
 			sourceTree = "<group>";
@@ -271,6 +276,7 @@
 			files = (
 				652CAFAC25885C7D007A4C3D /* main.m in Sources */,
 				652CAF9E25885C79007A4C3D /* ViewController.m in Sources */,
+				653180F3259DCE6800860975 /* RebaseViewController.m in Sources */,
 				652CAF9825885C79007A4C3D /* AppDelegate.m in Sources */,
 				652CAFA425885C79007A4C3D /* _020GitRebaseDemo.xcdatamodeld in Sources */,
 				652CAF9B25885C79007A4C3D /* SceneDelegate.m in Sources */,
